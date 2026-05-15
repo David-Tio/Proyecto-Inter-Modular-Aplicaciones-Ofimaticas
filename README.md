@@ -24,7 +24,7 @@ Presentación visual de 8 diapositivas explicando el sistema informático diseñ
 Proyecto_Intermodular_Ofimaticas/
 ├── Proyecto_Intermodular_Aplicaciones_Ofimaticas_David_Tío.docx -> Documentación del proyecto en formato .docx
 ├── Proyecto_Intermodular_Aplicaciones_Ofimaticas_David_Tío.pdf -> Documentación del proyecto en formato .pdf
-├── Inventario_Incidencias.xlsx
-├── Proyecto_Inter_Modular_Aplicaciones_Ofimaticas_Inmobiliaria_Chamartin_David_Tío_SMR1.pptx
-├──Proyecto_Inter_Modular_Aplicaciones_Ofimaticas_Inmobiliaria_Chamartin_David_Tío_SMR1.pdf
+├── Gestion_InmobiliariaChamartin.xlsx -> Hoja de excel con la información de las incidencias y el inventario de equipos en formato .xlsx
+├── Proyecto_Inter_Modular_Aplicaciones_Ofimaticas_Inmobiliaria_Chamartin_David_Tío_SMR1.pptx -> Presentación Powerpoint con la informaciónv del documento de la documentación formato .pptx
+├──Proyecto_Inter_Modular_Aplicaciones_Ofimaticas_Inmobiliaria_Chamartin_David_Tío_SMR1.pdf -> Presentación Powerpoint con la informaciónv del documento de la documentación formato .pdf
 └── README.md
