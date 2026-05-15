@@ -22,7 +22,8 @@ Presentación visual de 8 diapositivas explicando el sistema informático diseñ
 ## Estructura del repositorio
 ```
 Proyecto_Intermodular_Ofimaticas/
-├── Documento_Empresa.docx
+├── Proyecto_Intermodular_Aplicaciones_Ofimaticas_David_Tío.docx -> Documentación del proyecto en formato .docx
+├── Proyecto_Intermodular_Aplicaciones_Ofimaticas_David_Tío.pdf -> Documentación del proyecto en formato .pdf
 ├── Inventario_Incidencias.xlsx
 ├── Proyecto_Inter_Modular_Aplicaciones_Ofimaticas_Inmobiliaria_Chamartin_David_Tío_SMR1.pptx
 ├──Proyecto_Inter_Modular_Aplicaciones_Ofimaticas_Inmobiliaria_Chamartin_David_Tío_SMR1.pdf
